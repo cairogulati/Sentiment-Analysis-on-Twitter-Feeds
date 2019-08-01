@@ -1,10 +1,3 @@
-Project by:
-Divyaansh Devarriya (E16CSE069)
-Sahibnoor Singh Chahal
-Prateek Soni
-Cairo Gulati
-Snehal Singh
-
 Preconditions:
 Install pyprod,matplotlib and basemap
 
